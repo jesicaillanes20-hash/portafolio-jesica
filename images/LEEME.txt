@@ -1,0 +1,11 @@
+Coloca aquí tus imágenes de proyectos.
+
+Nombres esperados por el HTML (ver README.md en la raíz del proyecto
+para más detalle):
+
+- proyecto-clasificacion-residuos.jpg
+- proyecto-monitoreo-ambiental.jpg
+- proyecto-automatizacion-scada.jpg
+
+Puedes usar otros nombres, solo actualiza el atributo "src" de la
+imagen correspondiente en index.html.
